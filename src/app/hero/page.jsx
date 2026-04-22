@@ -4,7 +4,7 @@ const HeroPage = () => {
   return (
     <div>
       <h2>Hero Page</h2>
-      <Button variant="primary">Hero Button</Button>
+      <Button variant="ghost">Hero Button</Button>
     </div>
   );
 };

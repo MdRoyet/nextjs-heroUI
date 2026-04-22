@@ -1,0 +1,49 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Design Landing Page UI",
+      "description": "Create a responsive landing page design for the SaaS product.",
+      "status": "In Progress",
+      "priority": "High",
+      "assignedTo": "Royet",
+      "dueDate": "2026-05-01"
+    },
+    {
+      "id": 2,
+      "title": "Fix Login API Bug",
+      "description": "Resolve authentication error when users try to log in.",
+      "status": "Pending",
+      "priority": "Critical",
+      "assignedTo": "Nafiz",
+      "dueDate": "2026-04-28"
+    },
+    {
+      "id": 3,
+      "title": "Prepare Market Research Report",
+      "description": "Analyze competitors and prepare a detailed market map.",
+      "status": "Completed",
+      "priority": "Medium",
+      "assignedTo": "Ayesha",
+      "dueDate": "2026-04-20"
+    },
+    {
+      "id": 4,
+      "title": "Database Optimization",
+      "description": "Optimize MongoDB queries for faster performance.",
+      "status": "In Progress",
+      "priority": "High",
+      "assignedTo": "Sabbir",
+      "dueDate": "2026-05-05"
+    },
+    {
+      "id": 5,
+      "title": "Email Outreach Campaign",
+      "description": "Send 200 personalized cold emails to targeted prospects.",
+      "status": "Pending",
+      "priority": "Low",
+      "assignedTo": "Mim",
+      "dueDate": "2026-05-03"
+    }
+  ]
+}
