@@ -28,7 +28,7 @@ export default function RootLayout({ children }) {
       <body className="min-h-full flex flex-col bg-background text-foreground">
         <NextThemeProvider>
           <NavBar />
-          <main className="flex-grow">{children}</main>
+          <main className="flex-grow:1">{children}</main>
         </NextThemeProvider>
       </body>
     </html>
